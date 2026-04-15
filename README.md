@@ -83,9 +83,12 @@ This lab supports future detection work related to:
 This repo includes screenshots of:
 * active agents
   <img width="1006" height="577" alt="WazuhAgentsPage" src="https://github.com/user-attachments/assets/355f8e39-f038-402d-bc92-9fd33dafadf4" />
+  
 * Windows 10 and Windows Server agent status
-  <img width="997" height="698" alt="WinServerSvc" src="https://github.com/user-attachments/assets/c1ebbb5b-b4e7-43b1-bd96-7b1028d68589" />
+<img width="997" height="698" alt="WinServerSvc" src="https://github.com/user-attachments/assets/c1ebbb5b-b4e7-43b1-bd96-7b1028d68589" />
+  
 <img width="932" height="290" alt="Windows10WazuhSvc" src="https://github.com/user-attachments/assets/f0a3fb63-002f-4348-9cc2-6e82f9eaf802" />
+
 * endpoint connectivity to the Wazuh server
   <img width="486" height="597" alt="JSON" src="https://github.com/user-attachments/assets/b66b6ffb-641f-493a-aa39-44f1b8f964c5" />
 
