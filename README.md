@@ -89,6 +89,11 @@ This repo includes screenshots of:
   
 <img width="932" height="290" alt="Windows10WazuhSvc" src="https://github.com/user-attachments/assets/f0a3fb63-002f-4348-9cc2-6e82f9eaf802" />
 
+*Wazuh Events view showing 4769
+
+<img width="997" height="649" alt="WazuhEvents4769" src="https://github.com/user-attachments/assets/cf66c18d-b4b6-4122-875c-3965a84a6472" />
+
+
 * endpoint connectivity to the Wazuh server
 
   <img width="486" height="597" alt="JSON" src="https://github.com/user-attachments/assets/b66b6ffb-641f-493a-aa39-44f1b8f964c5" />
