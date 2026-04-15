@@ -90,6 +90,7 @@ This repo includes screenshots of:
 <img width="932" height="290" alt="Windows10WazuhSvc" src="https://github.com/user-attachments/assets/f0a3fb63-002f-4348-9cc2-6e82f9eaf802" />
 
 * endpoint connectivity to the Wazuh server
+
   <img width="486" height="597" alt="JSON" src="https://github.com/user-attachments/assets/b66b6ffb-641f-493a-aa39-44f1b8f964c5" />
 
 
